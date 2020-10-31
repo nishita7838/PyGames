@@ -1,2 +1,2 @@
-# SudokuSolver
-simple python app to solve sudoku
+# Pygames
+simple python app for PyGames
